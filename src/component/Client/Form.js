@@ -35,7 +35,6 @@ export class Form extends Component {
         return (
           <Login
             nextStep={this.nextStep}
-            prevStep={this.prevStep}
             inputChange={this.inputChange}
             values={values}
           />
