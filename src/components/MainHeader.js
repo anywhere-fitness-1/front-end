@@ -9,7 +9,7 @@ const MainHeader = () => {
         <header>
             <nav>
                 <div className="logo">
-                <a href="this is for the landing page">Anywhere Fitness</a>
+                <a href="https://optimistic-yalow-0ff99b.netlify.app/index.html">Anywhere Fitness</a>
                 </div>
                 <ul>
                         <li><NavLink to="/">Signup/Login</NavLink></li>
